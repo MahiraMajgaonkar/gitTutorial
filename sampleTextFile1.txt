@@ -1,3 +1,5 @@
 This is a sample text file and the text is OK
 
 hinm,bhcnvjk   lkjhggjlbnvjk.m
+
+update directly on remote repo
